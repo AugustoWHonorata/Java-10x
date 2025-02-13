@@ -1,4 +1,4 @@
-package Intermediário.Desafio3;
+package Intermediário.Chellange3;
 
 public class NinjasChallenge3 {
     public static void main(String[] args) {

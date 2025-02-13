@@ -1,4 +1,4 @@
-package Iniciante.desafio2;
+package Iniciante.Challenge2;
 
 import java.util.Scanner;
 
