@@ -1,4 +1,4 @@
-package Intermediário.Challenge4;
+package Intermediario.Challenge4;
 
 public interface Ninja {
     void mostrarInformacoes();

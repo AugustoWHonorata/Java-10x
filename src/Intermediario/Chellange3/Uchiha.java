@@ -1,4 +1,4 @@
-package Intermediário.Chellange3;
+package Intermediario.Chellange3;
 
 public class Uchiha extends NinjaChallenge3 {
     String habilidadeEspecial;

@@ -1,4 +1,4 @@
-package Intermediário.Challenge4;
+package Intermediario.Challenge4;
 
 public class NinjaAvancado extends NinjaBasico implements Ninja{
     String especialidade;

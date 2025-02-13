@@ -1,4 +1,4 @@
-package Intermediário;
+package Intermediario;
 
 public class ninjas {
     public static void main(String[] args) {
