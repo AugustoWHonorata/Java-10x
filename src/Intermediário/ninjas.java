@@ -6,6 +6,8 @@ public class ninjas {
         naruto.nome = "Naruto";
         naruto.idade = 17;
         naruto.aldeia= "Folha";
+
+       Ninja sasuke = new Ninja("sasuke", 14,"folha");
     }
 
 }

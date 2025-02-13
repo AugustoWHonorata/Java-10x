@@ -1,8 +1,8 @@
 package Intermediário.Desafio3;
 
-public class Ninjas {
+public class NinjasChallenge3 {
     public static void main(String[] args) {
-        Ninja naruto = new Ninja();
+        NinjaChallenge3 naruto = new NinjaChallenge3();
         naruto.nome = "Naruto";
         naruto.idade = 16;
         naruto.statusMissao = "Inconcluido";

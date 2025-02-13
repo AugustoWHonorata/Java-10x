@@ -1,6 +1,6 @@
 package Intermediário.Desafio3;
 
-public class Uchiha extends Ninja{
+public class Uchiha extends NinjaChallenge3 {
     String habilidadeEspecial;
 
     public void mostrarHabilidadesEspeciais(){

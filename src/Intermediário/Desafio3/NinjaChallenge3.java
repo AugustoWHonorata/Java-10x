@@ -1,6 +1,6 @@
 package Intermediário.Desafio3;
 
-public class Ninja {
+public class NinjaChallenge3 {
     String nome;
     int idade;
     String statusMissao;
@@ -11,5 +11,6 @@ public class Ninja {
         System.out.println("Idade do Ninja: " + idade);
         System.out.println("Status da Missão: " + statusMissao);
     }
+
 
 }
