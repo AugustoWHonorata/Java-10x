@@ -10,7 +10,7 @@ public class Uchiha extends Ninja {
         super(nome, aldeia, idade);
     }
 
-    public Uchiha(String nome, String aldeia, int idade, int numeroDeMissoesConcluidas, NivelNinja rank) {
+    public Uchiha(String nome, String aldeia, int idade, int numeroDeMissoesConcluidas, rankNinja rank) {
         super(nome, aldeia, idade, numeroDeMissoesConcluidas, rank);
     }
 

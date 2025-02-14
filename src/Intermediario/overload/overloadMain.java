@@ -14,7 +14,7 @@ public class overloadMain {
         naruto.estrategiaDeBatalhaNinja();
 
         // Obj uchiha
-        Uchiha sasuke = new Uchiha("Sasuke uchiha", "Aldeia da folha", 18, 20, NivelNinja.GENIN);
+        Uchiha sasuke = new Uchiha("Sasuke uchiha", "Aldeia da folha", 18, 20, rankNinja.GENIN);
         sasuke.habilidadeEspecial();
 
         // Obj Uchiha 2®
@@ -22,7 +22,7 @@ public class overloadMain {
         itachi.habilidadeEspecial();
 
         // obj Uchiha 3
-        Uchiha madara = new Uchiha("Madara Uchiha", "Aldeia da folha", 45,900, NivelNinja.KAGE);
+        Uchiha madara = new Uchiha("Madara Uchiha", "Aldeia da folha", 45,900, rankNinja.KAGE);
         madara.habilidadeEspecial();
         madara.estrategiaDeBatalhaNinja();
         // Metodo comum
